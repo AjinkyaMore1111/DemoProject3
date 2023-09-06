@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-06T13:33:31 IST" name="Default suite" finished-at="2023-09-06T13:35:43 IST" duration-ms="132232">
+    <groups>
+    </groups>
+    <test started-at="2023-09-06T13:33:31 IST" name="Default test" finished-at="2023-09-06T13:35:43 IST" duration-ms="132232">
+      <class name="ParcosEmail.EmailTest.emailTest">
+        <test-method signature="TestEmail()[pri:0, instance:ParcosEmail.EmailTest.emailTest@68c72235]" started-at="2023-09-06T13:33:31 IST" name="TestEmail" finished-at="2023-09-06T13:35:08 IST" duration-ms="96669" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestEmail -->
+        <test-method signature="EmailData()[pri:1, instance:ParcosEmail.EmailTest.emailTest@68c72235]" started-at="2023-09-06T13:35:08 IST" name="EmailData" finished-at="2023-09-06T13:35:43 IST" duration-ms="35476" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EmailData -->
+      </class> <!-- ParcosEmail.EmailTest.emailTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
